@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+📫 How to reach me: https://t.me/team_carter
 
 <!--
 **AliasFinn/AliasFinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
